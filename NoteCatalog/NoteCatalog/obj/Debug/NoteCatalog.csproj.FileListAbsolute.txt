@@ -1,0 +1,10 @@
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.csproj.AssemblyReference.cache
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.Form1.resources
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.Properties.Resources.resources
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\bin\Debug\NoteCatalog.exe.config
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\bin\Debug\NoteCatalog.exe
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\bin\Debug\NoteCatalog.pdb
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.exe
+C:\Users\elev\source\repos\NoteCatalog\NoteCatalog\obj\Debug\NoteCatalog.pdb
